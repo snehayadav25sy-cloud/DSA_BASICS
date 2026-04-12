@@ -10,7 +10,7 @@ public class Pattern01 {
            System.out.println();
 
        }
-    }
+    }  
     public static void main(String[] args) {
         System.out.println("Hello and welcome!");
         Scanner sc = new Scanner(System.in);
