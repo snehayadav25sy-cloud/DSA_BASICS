@@ -10,7 +10,7 @@ public class rec01 {
        System.out.println("sneha");
        Rec01(i+1 , n );
   
-
+  
     }
 
 public static void main(String[] args){
