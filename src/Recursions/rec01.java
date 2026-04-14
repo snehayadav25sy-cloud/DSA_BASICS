@@ -9,7 +9,7 @@ public class rec01 {
        }
        System.out.println("sneha");
        Rec01(i+1 , n );
-
+  
 
     }
 
