@@ -11,7 +11,7 @@ public class rec03 {
         Rec01(i-1 , n );  
 
 
-    }
+    } 
 
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
