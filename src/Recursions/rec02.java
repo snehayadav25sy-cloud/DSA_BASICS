@@ -8,7 +8,7 @@ public class rec02 {
             return;
         }  
         System.out.println(i + " ");
-        Rec01(i+1 , n );
+        Rec01(i+1 , n );  
 
     }  
     public static void main(String[] args){
