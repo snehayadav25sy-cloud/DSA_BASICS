@@ -12,7 +12,7 @@ public class rec02 {
 
     }  
     public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);  
         int n = sc.nextInt();
         Rec01(1,n);
     }
