@@ -7,7 +7,7 @@ public class rec01 {
        if(i>n){  
            return;  
        }
-       System.out.println("sneha");
+       System.out.println("sneha");  
        Rec01(i+1 , n );   
   
   
