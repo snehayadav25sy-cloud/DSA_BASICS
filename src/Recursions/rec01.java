@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class rec01 {
    static void Rec01(int i , int n){
        if(i>n){
-           return;
+           return;  
        }
        System.out.println("sneha");
        Rec01(i+1 , n );
