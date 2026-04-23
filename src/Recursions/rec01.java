@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class rec01 {
    static void Rec01(int i , int n){
-       if(i>n){
+       if(i>n){  
            return;  
        }
        System.out.println("sneha");
